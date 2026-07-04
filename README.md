@@ -1,4 +1,4 @@
-# ✍️ 델리쓰기 (Daily Writing)
+# 델리쓰기 (Daily Writing)
 
 **"글쓰기 습관의 시작"**
 
@@ -6,13 +6,13 @@
 
 https://github.com/user-attachments/assets/f4c7f5df-484e-45dd-9cd5-cae2d5dea878
 
-## 🧑‍🤝‍🧑 타겟 사용자
+## 타겟 사용자
 
 - 도파민 디톡스를 원하는 사람
 - 글을 잘 쓰고 싶지만 매번 작심삼일로 끝나는 사람
 - 글쓰기 능력 향상이 필요한 대학생
 
-## 🛠 사용 기술 / 개발 환경
+## 사용 기술 / 개발 환경
 
 - **개발 툴**: App Inventor (앱 인벤터, 블록 기반 앱 개발 플랫폼)
 - **데이터베이스**: TinyDB — 사용자 정보, 작성한 글 내용 및 목록 저장
@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/f4c7f5df-484e-45dd-9cd5-cae2d5dea878
 - **UI/UX 디자인**: Pixso — 정형화된 글쓰기 앱 디자인에서 벗어나 감각적이고 직관적인 UI로 설계
 - **날짜 처리**: DatePicker 컴포넌트 — 날짜별 글쓰기 기능 구현
 
-## ✨ 주요 기능
+## 주요 기능
 
 ### 1. 회원 관리
 - 회원가입 (닉네임 / 이메일 / 아이디 / 비밀번호)
@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/f4c7f5df-484e-45dd-9cd5-cae2d5dea878
 - 닉네임 / 비밀번호 변경
 - 회원 탈퇴 (탈퇴 시 저장된 모든 데이터 삭제, 복구 불가 경고 제공)
 
-## 🗺 서비스 구조
+## 서비스 구조
 
 ```
 델리쓰기
@@ -57,7 +57,7 @@ https://github.com/user-attachments/assets/f4c7f5df-484e-45dd-9cd5-cae2d5dea878
     └── 환경설정 → 탈퇴하기
 ```
 
-## 📁 산출물
+## 산출물
 
 - `.aia` — App Inventor 프로젝트 소스 파일
 - `.apk` — Android 설치 파일
